@@ -1,0 +1,6 @@
+{
+    "program": "transition_atalasia.aleo",
+    "version": "0.0.0",
+    "description": "A simple Aleo program with a transition named 'calculate_transition' that performs a basic mathematical operation. The operation can be addition, subtraction, multiplication, or division, based on the provided parameters. This program is associated with the user 'atalasia'.",
+    "license": "MIT"
+}
